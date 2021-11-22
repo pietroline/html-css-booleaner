@@ -1,4 +1,8 @@
 
+main{
+    width: 1200px;
+    margin: auto;
+}
 
 section > span{
     color: lightgray;
@@ -10,4 +14,8 @@ section > span{
 
 section > h4{
     margin: 0px;
+}
+
+.evidenziatore{
+    background-color: yellow;
 }
