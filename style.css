@@ -1,3 +1,9 @@
+*{
+    /* margin: 0px;
+    padding: 0px; */
+    box-sizing: border-box;
+}
+
 header, main, footer{
     width: 1200px;
     margin: auto;
@@ -15,8 +21,12 @@ header{
     width: 15em;
 }
 
+h1{
+    margin-bottom: 0px;
+}
 #intestazione{
     color: rgb(119, 119, 119);
+    margin-bottom: 20px;
 }
 
 #autore{
@@ -47,5 +57,23 @@ footer > h4{
     width: 20%;
 }
 
+.img{
+    width: 200px;
+    height: 200px;
+    color: white;
+    margin: 10px 0px;
+}
+
+footer h5{
+    padding: 8px;
+}
+
+.foto1{
+    background-image: url("img/monitor.jpg");
+}
+
+.foto2{
+    background-image: url("img/graph.jpg");
+}
 
 
