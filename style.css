@@ -1,10 +1,10 @@
 
-main{
+main, footer{
     width: 1200px;
     margin: auto;
 }
 
-section > span{
+#ciao{
     color: lightgray;
 }
 
@@ -18,4 +18,8 @@ section > h4{
 
 .evidenziatore{
     background-color: yellow;
+}
+
+footer > h4{
+    color: rgb(124, 124, 124);
 }
