@@ -10,7 +10,7 @@ header{
 }
 
 #intestazione{
-    color: lightgray;
+    color: rgb(119, 119, 119);
 }
 
 #autore{
@@ -36,3 +36,10 @@ footer > h4{
 .riga_colorata{
     background-color: lightblue;
 }
+
+.larghezza_colonna{
+    width: 20%;
+}
+
+
+
