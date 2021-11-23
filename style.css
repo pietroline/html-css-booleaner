@@ -33,8 +33,17 @@ section > h4{
     background-color: yellow;
 }
 
+section > ul{ /**non esattamente corretto**/
+    padding: 0px 0px 0px 15px;
+}
+
+table{
+    border-spacing: 0px;
+}
+
 #intestazione_tabella{
     background-color: rgb(0, 191, 255);
+    color: #ffffff;
 }
 
 .riga_colorata{
